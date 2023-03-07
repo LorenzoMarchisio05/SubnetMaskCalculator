@@ -1,0 +1,6 @@
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\bin\Debug\SubnetMaskCalculator.Models.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\bin\Debug\SubnetMaskCalculator.Models.pdb
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\obj\Debug\SubnetMaskCalculator.Models.csproj.AssemblyReference.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\obj\Debug\SubnetMaskCalculator.Models.csproj.CoreCompileInputs.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\obj\Debug\SubnetMaskCalculator.Models.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Models\obj\Debug\SubnetMaskCalculator.Models.pdb

@@ -1,0 +1,9 @@
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\obj\Debug\SubnetMaskCalculator.Controllers.csproj.AssemblyReference.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\obj\Debug\SubnetMaskCalculator.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\bin\Debug\SubnetMaskCalculator.Controllers.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\bin\Debug\SubnetMaskCalculator.Controllers.pdb
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\bin\Debug\SubnetMaskCalculator.Models.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\bin\Debug\SubnetMaskCalculator.Models.pdb
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\obj\Debug\SubnetMaskCalculator.Controllers.csproj.CopyComplete
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\obj\Debug\SubnetMaskCalculator.Controllers.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.Controllers\obj\Debug\SubnetMaskCalculator.Controllers.pdb

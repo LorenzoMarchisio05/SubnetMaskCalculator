@@ -1,0 +1,14 @@
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.View.csproj.AssemblyReference.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.View.csproj.SuggestedBindingRedirects.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.Form.resources
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.Properties.Resources.resources
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.View.csproj.GenerateResource.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.View.csproj.CoreCompileInputs.cache
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\bin\Debug\SubnetMaskCalculator.exe.config
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\bin\Debug\SubnetMaskCalculator.exe
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\bin\Debug\SubnetMaskCalculator.pdb
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\bin\Debug\SubnetMaskCalculator.Controllers.dll
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\bin\Debug\SubnetMaskCalculator.Controllers.pdb
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.View.csproj.CopyComplete
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.exe
+C:\Users\l.marchisio.2268\Desktop\SubnetMaskCalculator\SubnetMaskCalculator.View\obj\Debug\SubnetMaskCalculator.pdb

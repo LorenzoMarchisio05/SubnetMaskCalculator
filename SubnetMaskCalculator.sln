@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnetMaskCalculator.View", "SubnetMaskCalculator.View\SubnetMaskCalculator.View.csproj", "{3FCBBAB4-FF25-451B-93C5-D60A6CD5DAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnetMaskCalculator.Controllers", "SubnetMaskCalculator.Controllers\SubnetMaskCalculator.Controllers.csproj", "{51611A1F-E09E-4158-BA55-C3DECA691F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnetMaskCalculator.Models", "SubnetMaskCalculator.Models\SubnetMaskCalculator.Models.csproj", "{EE243395-B7C4-4B54-82B8-0FD9D9E53ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCBBAB4-FF25-451B-93C5-D60A6CD5DAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCBBAB4-FF25-451B-93C5-D60A6CD5DAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCBBAB4-FF25-451B-93C5-D60A6CD5DAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCBBAB4-FF25-451B-93C5-D60A6CD5DAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51611A1F-E09E-4158-BA55-C3DECA691F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51611A1F-E09E-4158-BA55-C3DECA691F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51611A1F-E09E-4158-BA55-C3DECA691F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51611A1F-E09E-4158-BA55-C3DECA691F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE243395-B7C4-4B54-82B8-0FD9D9E53ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE243395-B7C4-4B54-82B8-0FD9D9E53ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE243395-B7C4-4B54-82B8-0FD9D9E53ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE243395-B7C4-4B54-82B8-0FD9D9E53ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00648BEF-759E-454C-8942-97BE3FEB5331}
+	EndGlobalSection
+EndGlobal
